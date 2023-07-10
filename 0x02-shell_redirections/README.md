@@ -6,3 +6,4 @@ The command tail outputs the content by default the last 10 line in a file but t
 The command head by default prints the first 10 lines inside a file which is here /etc/passwd
 The command sed -n \'3p\' modifies the text to get the only line required to be printet or displayed
 In the previous line for task 6 i didn't notice that i should not use sed so i used awk
+It seamed from the checkers that awk is also not allowed to be used so by doing some search i configured out that the commands head and tail can solve this problem
