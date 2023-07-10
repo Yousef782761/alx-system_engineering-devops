@@ -5,3 +5,4 @@ The special charachter (/) prevents the next character from being interpreted as
 The command tail outputs the content by default the last 10 line in a file but the number of lines the wished to be displayed can be adjusted
 The command head by default prints the first 10 lines inside a file which is here /etc/passwd
 The command sed -n \'3p\' modifies the text to get the only line required to be printet or displayed
+In the previous line for task 6 i didn't notice that i should not use sed so i used awk
